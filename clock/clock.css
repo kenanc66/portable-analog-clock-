@@ -140,11 +140,12 @@ h2 {
   position: absolute;
   background-color: black;
   z-index: 11;
-  width: 1rem;
-  height: 1rem;
-  bottom: 50%;
+  width: 1.1rem;
+  height: 1.1rem;
   left: 50%;
+  top: 48%;
   transform: translate(-50%);
+
   border-radius: 50%;
 }
 #second {

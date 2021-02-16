@@ -64,6 +64,7 @@ function dragElement(elmnt) {
 }
 /*resize
 function myFunction() {
+    //   <button onclick="myFunction()">shape</button>
     console.log("clicked");
     document.getElementById("clock").style.resize = "both";
 }*/
